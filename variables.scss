@@ -1,0 +1,18 @@
+$color: blue;
+
+
+ul {
+    font-size: 14px;
+    color: $color;
+}
+
+ol {
+    font-size: 18px;
+    color: $color;
+}
+
+// for compiling sass file 
+// sass variables.scss:variables.css
+
+// for automation the compilation
+// sass --watch variables.scss:variables.css
